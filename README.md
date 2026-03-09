@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p style="text-align: center;"><a href="http://mkouhosei.com"><img src="https://github.com/MarianVasile/MarianVasile/raw/main/peer8-logo.png" /></a></p>
+<p style="text-align: center;"><a href="http://markvasile.org"><img src="https://markvasile.org/codeawareness.jpg" /></a></p>
+<p style="text-align: center;"><a href="http://codeawareness.com"><img src="https://www.codeawareness.com/assets/code-awareness-logo-DKDUCr2k.png" /></a></p>
 <hr />
 
 - 🔭 I’m currently working on an AI product called Kawa Code, to improve the quality of code generation and collaborative software development.
