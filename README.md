@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 ![Adobe Premiere](https://img.shields.io/badge/Visuals-Adobe%20Premiere%20Pro-informational?style=flat&labelColor=204F67&logo=Adobe%20Premiere%20Pro&logoColor=ffc107&color=ffc107)
 ![Adobe Photoshop](https://img.shields.io/badge/Visuals-Adobe%20Photoshop-informational?style=flat&labelColor=204F67&logo=Adobe%20Photoshop&logoColor=ffc107&color=ffc107)
 ![Adobe After Effects](https://img.shields.io/badge/Visuals-Adobe%20After%20Effects-informational?style=flat&labelColor=204F67&logo=Adobe%20After%20Effects&logoColor=ffc107&color=ffc107)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-you_like-orange?logo=davinciresolve)
+![DaVinci Resolve](https://img.shields.io/badge/Visuals-DaVinci_Resolve-orange?logo=davinciresolve)
 
 ![Visio](https://img.shields.io/badge/Tools-Visio-informational?style=flat&labelColor=204F67&logo=Microsoft%20Visio&logoColor=ffc107&color=ffc107)
 
