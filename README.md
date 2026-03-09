@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: @markvasile or @codeawareness
 
-<h4>Tech stack</h4>
+<h4>Tech and Tools</h4>
 <hr />
 
 ![Github Sponsor](https://img.shields.io/badge/Cloud-GitHub%20Sponsor-informational?style=flat&labelColor=204F67&logo=GitHub%20Sponsors&logoColor=ffc107&color=ffc107)
@@ -60,7 +60,8 @@ Here are some ideas to get you started:
 ![Styled Components](https://img.shields.io/badge/UX-Styled%20Components-informational?style=flat&labelColor=204F67&logo=styled-components&logoColor=ffc107&color=ffc107)
 
 ![vim](https://img.shields.io/badge/Editor-vim-informational?style=flat&labelColor=204F67&logo=vim&logoColor=ffc107&color=ffc107)
-![Spacemacs](https://img.shields.io/badge/Editor-Spacemacs-informational?style=flat&labelColor=204F67&logo=Spacemacs&logoColor=ffc107&color=ffc107)
+![Spacemacs](https://img.shields.io/badge/Editor-emacs-informational?style=flat&labelColor=204F67&logo=emacs&logoColor=ffc107&color=ffc107)
+![Spacemacs](https://img.shields.io/badge/Editor-zed-informational?style=flat&labelColor=204F67&logo=Zed&logoColor=ffc107&color=ffc107)
 ![VSCode](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&labelColor=204F67&logo=Visual%20Studio%20Code&logoColor=ffc107&color=ffc107)
 ![XCode](https://img.shields.io/badge/Editor-XCode-informational?style=flat&labelColor=204F67&logo=XCode&logoColor=ffc107&color=ffc107)
 
@@ -78,6 +79,7 @@ Here are some ideas to get you started:
 ![Adobe Premiere](https://img.shields.io/badge/Visuals-Adobe%20Premiere%20Pro-informational?style=flat&labelColor=204F67&logo=Adobe%20Premiere%20Pro&logoColor=ffc107&color=ffc107)
 ![Adobe Photoshop](https://img.shields.io/badge/Visuals-Adobe%20Photoshop-informational?style=flat&labelColor=204F67&logo=Adobe%20Photoshop&logoColor=ffc107&color=ffc107)
 ![Adobe After Effects](https://img.shields.io/badge/Visuals-Adobe%20After%20Effects-informational?style=flat&labelColor=204F67&logo=Adobe%20After%20Effects&logoColor=ffc107&color=ffc107)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve?style=flat&labelColor=204F67&logo=DaVinci%20Resolve&logoColor=ffc107&color=ffc107)
 
 ![Visio](https://img.shields.io/badge/Tools-Visio-informational?style=flat&labelColor=204F67&logo=Microsoft%20Visio&logoColor=ffc107&color=ffc107)
 
