@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 <p style="text-align: center;"><a href="http://mkouhosei.com"><img src="https://github.com/MarianVasile/MarianVasile/raw/main/peer8-logo.png" /></a></p>
 <hr />
 
-- 🔭 I’m currently working on a VSCode extension and a few related server/infa components, that will enable programmers to become aware of each other's code, in wonderful ways. At the moment I'm struggling with creating a new, secure way to partition the access to private repositories, without requesting access to it (i.e. no GitHub API and such).
-
-- 🌱 I’m currently learning Swift
+- 🔭 I’m currently working on an AI product called Kawa Code, to improve the quality of code generation and collaborative software development.
+- ⚡ Fun fact: I'm using Kawa Code to develop the various Kawa Code components.
 
 - 📫 How to reach me: @markvasile or @codeawareness
 
@@ -31,15 +30,15 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/Cloud-Amazon%20AWS-informational?style=flat&labelColor=204F67&logo=Amazon%20AWS&logoColor=ffc107&color=ffc107)
 ![OpenShift](https://img.shields.io/badge/Cloud-Red%20Hat%20Open%20Shift-informational?style=flat&labelColor=204F67&logo=Red%20Hat%20Open%20Shift&logoColor=ffc107&color=ffc107)
 
+![Node.js](https://img.shields.io/badge/Code-Rust-informational?style=flat&labelColor=204F67&logo=Rust&logoColor=ffc107&color=ffc107)
 ![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&labelColor=204F67&logo=Node.js&logoColor=ffc107&color=ffc107)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&labelColor=204F67&logo=JavaScript&logoColor=ffc107&color=ffc107)
+![JavaScript](https://img.shields.io/badge/Code-Typescript-informational?style=flat&labelColor=204F67&logo=Typescript&logoColor=ffc107&color=ffc107)
 ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&labelColor=204F67&logo=HTML5&logoColor=ffc107&color=ffc107)
 ![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&labelColor=204F67&logo=CSS3&logoColor=ffc107&color=ffc107)
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&labelColor=204F67&logo=PHP&logoColor=ffc107&color=ffc107)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&labelColor=204F67&logo=Python&logoColor=ffc107&color=ffc107)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&labelColor=204F67&logo=Java&logoColor=ffc107&color=ffc107)
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&labelColor=204F67&logo=C++&logoColor=ffc107&color=ffc107)
-![C](https://img.shields.io/badge/Code-C-informational?style=flat&labelColor=204F67&logo=C&logoColor=ffc107&color=ffc107)
+![C](https://img.shields.io/badge/Code-C#-informational?style=flat&labelColor=204F67&logo=C#&logoColor=ffc107&color=ffc107)
 ![Haskell](https://img.shields.io/badge/Code-Haskell-informational?style=flat&labelColor=204F67&logo=Haskell&logoColor=ffc107&color=ffc107)
 
 ![MongoDB](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&labelColor=204F67&logo=MongoDB&logoColor=ffc107&color=ffc107)
