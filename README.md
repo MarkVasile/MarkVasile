@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 ![OpenShift](https://img.shields.io/badge/Cloud-Red%20Hat%20Open%20Shift-informational?style=flat&labelColor=204F67&logo=Red%20Hat%20Open%20Shift&logoColor=ffc107&color=ffc107)
 
 ![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&labelColor=204F67&logo=Rust&logoColor=ffc107&color=ffc107)
-![Node.js](https://img.shields.io/badge/Code-Node.js-orage?style=flat&labelColor=204F67&logo=Node.js)
-![GoLang](https://img.shields.io/badge/Code-Go-orage?style=flat&labelColor=204F67&logo=go)
+![Node.js](https://img.shields.io/badge/Code-Node.js-orange?style=flat&labelColor=204F67&logo=Node.js)
+![GoLang](https://img.shields.io/badge/Code-Go-orange?style=flat&labelColor=204F67&logo=go)
 ![JavaScript](https://img.shields.io/badge/Code-Typescript-orange?style=flat&labelColor=204F67&logo=Typescript)
 ![HTML5](https://img.shields.io/badge/Code-HTML5-orange?style=flat&labelColor=204F67&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/Code-CSS3-orange?style=flat&labelColor=204F67&logo=CSS3)
