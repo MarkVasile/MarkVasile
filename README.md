@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p style="text-align: center;"><a href="http://markvasile.org"><img src="https://markvasile.org/codeawareness.jpg" style="width: 32px;" /> Personal website</a></p>
-<p style="text-align: center;"><a href="http://codeawareness.com"><img src="https://www.codeawareness.com/assets/code-awareness-logo-DKDUCr2k.png" style="width: 32px;" /></a></p>
+<p style="text-align: center;"><a href="http://codeawareness.com/product"><img src="https://www.codeawareness.com/assets/code-awareness-logo-DKDUCr2k.png" style="width: 32px;" />Kawa Code</a></p>
 <hr />
 
 - 🔭 I’m currently working on an AI product called Kawa Code, to improve the quality of code generation and collaborative software development.
